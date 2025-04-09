@@ -14,7 +14,7 @@
 ### 💡 About Me
 
 🎓 I'm a **final-year UG student at Mohan Babu University**  
-💻 A passionate **Frontend Developer** from 🇮🇳 India  
+💻 A passionate **AIML Student**  
 
 🔥 I specialize in turning ideas into interactive web experiences, securing decentralized systems, and solving real-world challenges through:
 
